@@ -1,0 +1,13 @@
+{
+    "abi": "[{\"constant\":false,\"inputs\":[{\"name\":\"_from\",\"type\":\"address\"},{\"name\":\"_value\",\"type\":\"uint256\"}],\"name\":\"migrateFrom\",\"outputs\":[],\"payable\":false,\"type\":\"function\"}]",
+    "bytecode": "",
+    "functionHashes": {
+        "migrateFrom(address,uint256)": "7a3130e3"
+    },
+    "gasEstimates": {
+        "creation": {},
+        "external": {},
+        "internal": {}
+    },
+    "runtimeBytecode": ""
+}
